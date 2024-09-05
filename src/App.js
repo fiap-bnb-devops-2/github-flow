@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Aprendendo agora o GitHub Flow
-        </p>
+        <p>Aprendendo agora o GitHub Flow</p>
       </header>
     </div>
   );
